@@ -2,9 +2,9 @@
 
 Scripts I wrote for pleasure and utility.
 
-## pasteget.py
+## [pasteget.py](https://github.com/RafeKettler/misc-scripts/blob/master/pasteget.py)
 
-A script to download the top 20 pastes from the last 48 hours from pastebin.com. Using it is a bit like putting an iPod on shuffle: you never know what you might get, whether it's dox on the execs of a Fortune 500 company, jokes, code, or a mad cracker's manifesto. It's interesting regardless.
+A script to download the top 20 pastes from the last 48 hours from [pastebin.com](http://www.pastebin.com). Using it is a bit like putting an iPod on shuffle: you never know what you might get, whether it's dox on the execs of a Fortune 500 company, jokes, code, or a mad cracker's manifesto. It's interesting regardless.
 
 ## License
 
