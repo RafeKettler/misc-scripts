@@ -10,7 +10,7 @@ Dependencies: BeautifulSoup
 
 Configuration: The assumption is that you have a folder called
 'pastes' in your home directory (not sure how this affects Windows, but it will
-work on any Unix-like OS. You can change the default base path for pastes by
+work on any *nix or Linux. You can change the default base path for pastes by
 editing the 'base' global variable. Also, the script only has support for some
 file extensions by default; you can add something else you'd like by editing
 the 'extensions' global variables. You can also change the number of pastes
